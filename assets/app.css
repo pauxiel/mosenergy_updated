@@ -151,7 +151,7 @@ button:focus {
 /* ============================================== */
 
 .hero {
-  --hero-nav-height: 100px;
+  --hero-nav-height: 60px;
   --block-background: white;
   --block-text-color: var(--text-primary);
   background: var(--block-background);
